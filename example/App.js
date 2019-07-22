@@ -28,7 +28,6 @@ export default class MarqueeTextSample extends React.Component {
           >
             Lorem Ipsum is simply dummy text of the printing and typesetting industry and typesetting industry.
           </MarqueeText>
-        </View>
         <View style={{ marginVertical: 20 }}>
           <Text>Marquee On Start</Text>
           <MarqueeText
